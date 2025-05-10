@@ -3,7 +3,8 @@ Invoice Application with Blazor and Aspose 📄💻
 This is a Blazor application built with the Aspose library to manipulate and export invoices in various formats such as PDF, Word, and Excel using C#. It provides a simple and intuitive interface for generating, editing, and exporting invoices. 📑📈
 
 ✨ Key Features:
-Dynamic Invoice Creation: Fill out invoice details interactively via the Blazor interface. 🧾
+
+Dynamic Invoice Creation via the Blazor interface. 🧾
 
 PDF Export: Generate invoices as PDF documents. 📄
 
