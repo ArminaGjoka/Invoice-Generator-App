@@ -4,7 +4,7 @@ This is a Blazor application built with the Aspose library to manipulate and exp
 
 ✨ Key Features:
 
-Dynamic Invoice Creation via the Blazor interface. 🧾
+Dynamic Invoice Creation via Blazor interface. 🧾
 
 PDF Export: Generate invoices as PDF documents. 📄
 
